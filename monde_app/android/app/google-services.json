@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055637594589",
+    "firebase_url": "https://monde-app-58f25-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "monde-app-58f25",
+    "storage_bucket": "monde-app-58f25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055637594589:android:5ca07fbfe0043b3fcdd634",
+        "android_client_info": {
+          "package_name": "com.example.monde_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055637594589-1hq9a4e256n8emcrg9obkq3nqgqb0ms7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-QljKWCZMNpUWTVQRKfGSdi0jay5twQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055637594589-1hq9a4e256n8emcrg9obkq3nqgqb0ms7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055637594589-b2nv0dfc5l2mc2qpssu3k454t1fqkkmv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mondeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
